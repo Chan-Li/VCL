@@ -6,7 +6,8 @@ Python 3.8
 - The codes are arranged according to the sections of the original paper.
 # Acknowledgement
 [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/).
-[THE FASHION MNIST DATABASE of handwritten digits]([http://yann.lecun.com/exdb/mnist/](https://github.com/zalandoresearch/fashion-mnist))
+
+[THE FASHION MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 # Citation
 This code is the product of work carried out by the group of [PMI lab, Sun Yat-sen University](https://www.labxing.com/hphuang2018). If the code helps, consider giving us a shout-out in your publications.
 # Contact
