@@ -3,7 +3,7 @@ Code for paper [Statistical mechanics of continual learning: variational princip
 # Requirements
 Python 3.8
 # Some instructions:
-- The original datasets are not uploaded.
+- The original datasets MNIST and Fashion MNIST are not uploaded.
 
 - The codes are arranged according to the sections of the original paper. In the Folder 'Continual learning in deep neural networks', 'Bayesian-Permuated.py' shows code for the permuated MNIST classification task, while 'Bayesian-Sequential.py' shows code for the sequential learning between MNIST and Fashion MNIST classification task.
 # Acknowledgement
