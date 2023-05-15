@@ -1,1 +1,0 @@
-This part contains the code of theoretical analysis of perceptron of VCL. The code is write in python.  PyTorch and cuda are required to run the codes.  The code with name begin with 'fig-...' correspond the results of that fig in the text.
